@@ -42,10 +42,10 @@ for i in range(8):
 plt.show()
 
 # saving the results
-# cv2.imwrite("erosion.jpg",erosion)
-# cv2.imwrite("dilation.jpg",dilation)
-# cv2.imwrite("opening.jpg",opening)
-# cv2.imwrite("closing.jpg",closing)
-# cv2.imwrite("gradient.jpg",gradient)
-# cv2.imwrite("tophat.jpg",tophat)
-# cv2.imwrite("blackhat.jpg",blackhat)
+cv2.imwrite("erosion.jpg",erosion)
+cv2.imwrite("dilation.jpg",dilation)
+cv2.imwrite("opening.jpg",opening)
+cv2.imwrite("closing.jpg",closing)
+cv2.imwrite("gradient.jpg",gradient)
+cv2.imwrite("tophat.jpg",tophat)
+cv2.imwrite("blackhat.jpg",blackhat)
