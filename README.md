@@ -15,6 +15,7 @@ This repository contains Python code for the following morphological transformat
 . Gradient
 . Top Hat
 . Black Hat
-License
+
+# License
 This project is licensed under the Apache License, Version 2.0.
 
