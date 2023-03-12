@@ -16,6 +16,6 @@ This repository contains Python code for the following morphological transformat
 . Top Hat
 . Black Hat
 
-# License
+## License
 This project is licensed under the Apache License, Version 2.0.
 
